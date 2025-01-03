@@ -1,0 +1,1 @@
+This repository contains a demonstration of an uninitialized variable error in ActionScript 3.0 and its solution.  The bug.as file shows the error, and the bugSolution.as file provides the corrected code. This is a common error, especially for developers new to ActionScript or strong typing.
